@@ -13,7 +13,7 @@ dedicated to japanese-belarusian transliterations. I have worked as an english-b
 
 * I am familiar with JavaScript (specifically ReactJS framework), C++, Java, Python and MatLab.
 
-** I can also operate with code markdown:
+  * I can also operate with code markdown:
 ```
 const Component = (props) => {
   return(
@@ -24,4 +24,4 @@ const Component = (props) => {
 }
 ```
 
-** My English level is B2.
+  * My English level is B2.
