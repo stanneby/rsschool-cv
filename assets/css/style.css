@@ -1,8 +1,23 @@
 .wrapper {
-    display:flex; 
-    flex-direction:column; 
-    justify-content:center;
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center;
     margin: 0 auto;
     max-width: 1000px;
     width: 100%;
 }
+
+img {
+    float: left;
+    padding: 0px 10px 10px 0px;
+}
+
+.floating_text::after {
+    clear: both;
+}
+
+footer > *{
+    display: inline-block;
+    padding: 0px 10px 0px 10px;
+}
+
